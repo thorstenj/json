@@ -9,6 +9,11 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "0": {
-    "name": "0"
+    "name": "Blob Academy Test #1",
+    "description": "One of 10,000 delighful blobs",
+    "image": "https://ipfs.infura.io/ipfs/QmW6312mr4VEZSxBhPCDgkjYuEUsEov1Kh1XRPjnfbgUCH",
+    "type": "ghost",
+    "eyes": "confused",
+    "mouth": "happy"
   }
 }
