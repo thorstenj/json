@@ -1,22 +1,16 @@
 {
-	"image": "ipfs:\/\/QmTvwD4iR4FURdgcGJRZSBHsRbheyZQopjy4hFntmDJrM2",
+	"image": "https://ipfs.infura.io/ipfs/QmU95CtLAuYnLxKVmHn9vcGdTg1gvspUUycvUCDHHL1hgX",
 	"attributes": [{
-		"value": "Sad",
+		"value": "Happy",
 		"trait_type": "Mouth"
-	}, {
-		"value": "Gold Crowbar",
-		"trait_type": "Fin"
 	}, {
 		"value": "Koi",
 		"trait_type": "Species"
 	}, {
-		"value": "Pink",
+		"value": "Blue",
 		"trait_type": "Background"
 	}, {
-		"value": "Stare",
+		"value": "Confused",
 		"trait_type": "Eyes"
-	}, {
-		"value": "White Button Down",
-		"trait_type": "Outfit"
 	}]
 }
